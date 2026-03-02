@@ -165,7 +165,7 @@ export default function Hero() {
           </div>
         )}
 
-        <div className="hero-app-card__map">📍 {formatDistance(card.distanceMeters)} • Distância aproximada</div>
+        <div className="hero-app-card__map">📍 {formatDistance(card.distanceMeters)} • Abrir no mapa</div>
 
         <div className="hero-app-card__dots" aria-label="Itens em destaque">
           {featuredCards.map((item, index) => (
