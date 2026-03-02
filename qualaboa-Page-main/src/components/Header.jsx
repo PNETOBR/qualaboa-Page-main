@@ -3,7 +3,7 @@ export default function Header() {
     <header className="header">
       <div className="container header__inner">
         <a className="brand" href="#">
-          <img className="brand__mark" src="/assets/images/favicon.png" alt="QualABoa? (Q?)" />
+          <img className="brand__mark" src="/assets/images/favicon-96x96.png" alt="QualABoa? (Q?)" />
           <span className="brand__name">QualABoa?</span>
         </a>
 

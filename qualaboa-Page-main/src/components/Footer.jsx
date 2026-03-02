@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__inner">
         <div className="footer__brand">
-          <img className="footer__mark" src="/assets/images/favicon.png" alt="Q?" />
+          <img className="footer__mark" src="/assets/images/favicon-96x96.png" alt="Q?" />
           <div>
             <div className="footer__name">QualABoa?</div>
             <div className="footer__copy">© {year} QualABoa. Todos os direitos reservados.</div>

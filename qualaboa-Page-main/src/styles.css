@@ -412,14 +412,15 @@ h2{
   white-space:nowrap;
 }
 .selo-q__icon{
-  width:18px;
-  height:18px;
-  object-fit:cover;
+  width:20px;
+  height:20px;
+  object-fit:contain;
   border-radius:6px;
-  background: rgba(255,255,255,.08);
-  border: 1px solid rgba(255,255,255,.18);
-  padding: 2px;
-  filter: brightness(1.2) contrast(1.25) drop-shadow(0 0 8px rgba(176,48,224,.35));
+  background: linear-gradient(135deg, rgba(176,48,224,.30), rgba(224,80,32,.22));
+  border: 1px solid rgba(240,240,160,.38);
+  padding: 3px;
+  display: inline-block;
+  filter: brightness(1.12) contrast(1.18) drop-shadow(0 0 10px rgba(176,48,224,.40));
   vertical-align:middle;
 }
 
@@ -430,8 +431,8 @@ h2{
 }
 
 .selo-q__icon--highlight{
-  width:22px;
-  height:22px;
+  width:24px;
+  height:24px;
 }
 
 .highlight{

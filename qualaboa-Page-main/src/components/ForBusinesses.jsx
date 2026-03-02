@@ -35,7 +35,7 @@ export default function ForBusinesses() {
 
         <div className="highlight">
           <div className="highlight__seal">
-            <img className="selo-q__icon selo-q__icon--highlight" src="/assets/images/favicon.png" alt="Selo Q?" />
+            <img className="selo-q__icon selo-q__icon--highlight" src="/assets/images/favicon.svg" alt="Selo Q?" />
             <div className="highlight__label">Selo Q?</div>
           </div>
           <div className="highlight__title">Mais visibilidade</div>

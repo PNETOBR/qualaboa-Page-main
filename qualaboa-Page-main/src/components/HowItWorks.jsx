@@ -31,10 +31,9 @@ export default function HowItWorks() {
             <div className="icon">🎟️</div>
             <h3>Cupons e destaques</h3>
             <p>
-              Aproveite cupons e veja locais premium com{' '}
+              Aproveite cupons e veja locais premium com o nosso selo{' '}
               <span className="selo-q">
-                <img className="selo-q__icon" src="/assets/images/favicon.png" alt="" />
-                selo Q?
+                <img className="selo-q__icon" src="/assets/images/favicon.svg" alt="" />
               </span>
               .
             </p>
